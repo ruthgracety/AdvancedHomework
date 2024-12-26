@@ -96,3 +96,9 @@ p {
   width: 100%;
   height: auto;
 }
+
+@media (max-width: 576px) {
+  .special-heading {
+    color: blue;
+    text-align: center;
+  }
